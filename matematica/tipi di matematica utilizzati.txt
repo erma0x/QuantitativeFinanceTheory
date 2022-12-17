@@ -1,0 +1,7 @@
+This includes: probability, statistics, linear algebra,
+differential equations, optimization, numerical analysis,
+artificial intelligence, etc.
+
+
+But probably not: topology, differential geometry,
+advanced algebra, control theory.

@@ -1,0 +1,3 @@
+Esso è focalizzato sul progettare ed aggiornare modelli e strategie analitiche per particolari strumenti, eventi e situazioni finanziare.
+
+Questi modelli sono descritti in forma rigorosamente matematica ed applicati tramite algoritmi, i quali devono essere ottimizzati al massimo possibile dell’efficienza

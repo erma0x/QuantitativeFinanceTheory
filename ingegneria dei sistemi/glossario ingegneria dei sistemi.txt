@@ -1,0 +1,19 @@
+
+    Sistema : insieme di parti interagenti e interdipendenti che formano un insieme complesso. [3]
+    Confini : barriere che definiscono un sistema e lo distinguono da altri sistemi in un ambiente.
+    Omeostasi : la tendenza di un sistema ad essere resiliente rispetto alle perturbazioni esterne e a mantenere le sue caratteristiche chiave.
+    Adattamento : la tendenza di un sistema ad apportare i cambiamenti interni necessari per proteggersi e continuare a raggiungere il suo scopo.
+    Transazioni reciproche : interazioni circolari o cicliche in cui i sistemi si impegnano in modo tale da influenzarsi a vicenda.
+    Ciclo di feedback : il processo mediante il quale i sistemi si autocorreggono in base alle osservazioni del loro stato attuale.
+    Throughput : il tasso di trasferimento di energia tra un sistema e il suo ambiente nel tempo.
+    Microsistema : il sistema più vicino al cliente.
+    Mesosistema : relazioni tra sistemi in un ambiente.
+    Exosystem : una relazione tra due sistemi che ha un effetto indiretto su un terzo sistema.
+    Macrosistema : un sistema più ampio che influenza i clienti, come le politiche, l'amministrazione dei programmi di autorizzazione e la cultura.
+    Equifinalità : il modo in cui i sistemi possono raggiungere lo stesso obiettivo attraverso percorsi diversi. [3]
+    Sistemi aperti e chiusi [3]
+    Chronosystem : un sistema composto da eventi significativi della vita che influenzano l'adattamento.
+    Isomorfismo : caratteristiche strutturali, comportamentali e di sviluppo condivise tra i sistemi. [3]
+    Architettura dei sistemi :
+    Analisi dei sistemi : 
+

@@ -1,0 +1,8 @@
+    SOFTWARE
+python3.10
+linux ubuntu/windows
+jupyter notebook
+visual studio code
+visual studio server
+virtual machine
+bleachbit

@@ -1,0 +1,3 @@
+Un'architettura di sistema è il modello concettuale che definisce la struttura , il comportamento e più punti di vista di un sistema . [1] Una descrizione dell'architettura è una descrizione e rappresentazione formale di un sistema, organizzata in modo da supportare il ragionamento sulle strutture e sui comportamenti del sistema.
+
+Un'architettura di sistema può essere costituita da componenti di sistema e dai sottosistemi sviluppati, che lavoreranno insieme per implementare il sistema complessivo.

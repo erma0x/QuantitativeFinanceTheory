@@ -1,0 +1,9 @@
+    FinTech: app con dati finanziari
+    
+    Hedging, Derivati e Opzioni in genere
+    
+    Indici (equity, complessi, ecc.)
+    
+    Algo - Trading
+    
+    Gestione del Rischio

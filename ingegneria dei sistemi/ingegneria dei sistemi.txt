@@ -1,0 +1,3 @@
+
+
+L'ingegneria dei sistemi si concentra sull'analisi e la raccolta delle esigenze dei clienti e delle funzionalità richieste all'inizio del ciclo di sviluppo, documentando i requisiti, quindi procedendo con la sintesi del progetto e la convalida del sistema considerando il problema completo, il ciclo di vita del sistema 

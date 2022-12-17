@@ -1,0 +1,7 @@
+Il design scelto per l’infrastruttura di gestione del portafoglio è costituito dai seguenti componenti:
+
+    Position : questa classe incapsula tutti i dati associati a una posizione aperta per un asset. In altre parole, tiene traccia dei profitti e delle perdite (PnL) realizzati e non realizzati calcolando la media delle “gambe” multiple della transazione, inclusi i costi di transazione.
+    Portfolio – La classe Portfolio che racchiude un elenco di posizioni, nonché un saldo del conto, equity e PnL.
+    PositionSizer – La classe PositionSizer fornisce al PortfolioHandler (di seguito) una guida su come dimensionare le posizioni una volta ricevuto un segnale di strategia. Ad esempio, PositionSizer potrebbe incorporare un approccio del criterio di Kelly.
+    RiskManager – Il RiskManager viene utilizzato dal PortfolioHandler per verificare, modificare o porre il veto a qualsiasi negoziazione suggerita che passa dal PositionSizer, sulla base dell’attuale composizione del portafoglio e di considerazioni di rischio esterno (come la correlazione agli indici o la volatilità).
+    PortfolioHandler – La classe PortfolioHandler è responsabile della gestione del portafoglio corrente, interagendo con RiskManager e PositionSizer, nonché inviando ordini da eseguire da un gestore di esecuzione.

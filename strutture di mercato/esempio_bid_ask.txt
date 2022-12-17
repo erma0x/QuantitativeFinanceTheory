@@ -1,0 +1,16 @@
+
+
+Definizione
+Il termine offerta e domanda si riferisce al miglior prezzo potenziale a cui gli acquirenti e i venditori sul mercato sono disposti a negoziare. In altre parole, bid e ask si riferiscono al miglior prezzo al quale un titolo può essere venduto e/o acquistato al momento attuale.
+
+
+esempio, se l'attuale quotazione azionaria include un'offerta di $ 13 e una domanda di $ 13,20, un investitore che cerca di acquistare il titolo pagherebbe $ 13,20. Un investitore che cerca di vendere il titolo lo venderebbe a $ 13.
+
+
+Considerando il Bid-Ask Spread
+
+La differenza tra i prezzi bid e ask è indicata come bid-ask spread. Lo spread denaro-lettera avvantaggia il market maker e rappresenta il profitto del market maker. È un fattore importante da tenere in considerazione quando si fa trading di titoli, in quanto è essenzialmente un costo nascosto che si sostiene durante il trading.
+
+Ad esempio, se un titolo ha ricevuto un'offerta di $ 10 e una richiesta di $ 11, un investitore si aspetterebbe di perdere $ 1 o 9% del proprio investimento se ha acquistato al prezzo richiesto di $ 11 e poi ha immediatamente cambiato idea e venduto all'offerta prezzo di $10.
+
+Quando il titolo è altamente scambiato (liquido), lo spread sarà basso. D'altra parte, quando il titolo viene scambiato raramente (illiquido), lo spread sarà maggiore. Ad esempio, lo spread bid-ask di Facebook Inc. , un'azione altamente scambiata con un volume giornaliero medio di 50 giorni di 25 milioni, è di un (1) centesimo.

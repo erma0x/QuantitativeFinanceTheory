@@ -1,0 +1,14 @@
+1. How often will the interest be incurred?
+Hourly
+2. Which of the following features will be affected when liquidation or negative equity has been triggered?
+Withdrawals and trades on the Spot platform
+Funds transfer from/to the Spot Account
+Repayment, leverage settings, NFT trades, and OTC lending
+3. How will Bybit notify users who have triggered the liquidation alert?
+SMS and email
+4. Which of the following fees is applicable to Cross Margin Trading?
+Spot trading fees and interest incurred
+5. Which of the following scenarios will make Cross Margin Trading risky?
+High leverage
+Extreme price volatility
+Insufficient margin

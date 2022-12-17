@@ -1,0 +1,84 @@
+TOOLS
+	security_master_db
+	backtester_1
+	backtester_2
+	price_streamer
+	model_to_signal
+	daemon_trader
+	time_series_analysis_tools
+	strategy_optimizer
+	strategy_generation
+	performance_calculator
+_________________________________________________________________________________________________________
+   
+   GLOSSARIO
+   
+	security master db: fundamental, pricing and transactional data for a variety of financial instruments across asset classes
+
+	limit order book
+
+	quantitative trading researchers is to establish a strategy pipeline
+_________________________________________________________________________________________________________
+
+METODOLOGY
+Is the strategy momentum based, mean-reverting, market-neutral, directional? 
+
+Does the strategy rely on sophisticated (or complex!) statistical or machine
+learning techniques that are hard to understand and require a PhD in statistics to grasp?
+
+Do these techniques introduce a significant quantity of parameters, which might lead to optimisation bias?
+
+Is the strategy likely to withstand a regime change (i.e. potential new regulation of financial markets)?
+_________________________________________________________________________________________________________
+
+Evaluate a strategy
+
+In an institutional setting the concept of drawdown is especially important as most hedge
+funds are remunerated only when the account equity is continually creating new high water
+marks
+
+• Sharpe Ratio
+• Leverage - Does the strategy require significant leverage in order to be profitable?
+• Frequency/fees
+• Volatility 
+• Win/Loss, Average Profit/Loss 
+• Maximum Drawdown 
+• m Parameters
+• Benchmark 
+
+• Total Profit/Loss (PnL) - The total PnL straightforwardly states whether a particular
+trade has been profitable or not.
+• Average Period PnL - The avg. period PnL states whether a bar, on average, generates
+a profit or loss.
+• Maximum Period Profit - The largest bar-period profit made by this trade so far.
+• Maximum Period Loss - The largest bar-period loss made by this trade so far. Note
+that this says nothing about future maximum period loss! A future loss could be much
+larger than this.
+• Average Period Profit - The average over the trade lifetime of all profitable periods.
+• Average Period Loss - The average over the trade lifetime of all unprofitable periods.
+• Winning Periods - The count of all winning periods.
+• Losing Periods - The count of all losing periods.
+• Percentage Win/Loss Periods - The percentage of all winning periods to losing periods.
+Will differ markedly for trend-following and mean-reverting type strategies.
+
+_________________________________________________________________________________________________________
+
+crontab
+
+might automate the download
+
+It will then automatically run
+
+the aforementioned missing data and spike filtration scripts, alerting the trader via email, SMS
+or some other form of notification. At this point any backtesting tools will automatically have
+access to recent data, without the trader having to lift a finger!
+
+_________________________________________________________________________________________________________
+POSSIBLE DATA FEED ERRORS
+
+Spikes: one must choose the threshold for being told about spikes - how many
+standard deviations to use and over what look-back period? Too high a stdev will miss some
+spikes
+
+OHLC Aggregation
+Missing Data

@@ -1,0 +1,10 @@
+ Opzioni finanziarie e modelli discreti. Arbitraggio e completezza dei mercati finanziari. Opzioni finanziarie e modelli continui. Il modello e la formula di Black-Scholes. Delta hedging dinamico. Assicurazione di portafoglio. Modelli di tassi d’interesse. Derivati sui tassi di interesse. Risoluzione numerica per la valutazione di opzioni finanziarie tramite costruzione di algoritmi ad albero e Monte Carlo. Opzioni reali. Teoria del portafoglio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ OBBIETTIVI corso teorico
+  Il corso si propone fornire conoscenze avanzate dei metodi di finanza quantitativa. Al termine del corso lo studente dovrà essere in grado di comprendere i principali modelli discreti e continui per la valutazione di opzioni finanziarie. Lo studente conoscerà le opzioni reali per la valutazione di progetti la teoria del portafoglio. 
